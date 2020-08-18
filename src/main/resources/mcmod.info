@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "Epic Villagers",
+  "description": "Epic Villagers",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Sepp_xGMX"],
+  "credits": "Sebastian und Nicol",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
